@@ -2,6 +2,8 @@
 
 Demo version of app: https://rock-scissor-paper-jears.herokuapp.com/
 
+![image](https://user-images.githubusercontent.com/48132822/114306141-9439c600-9ae3-11eb-88c1-b2d98f3fde7a.png)
+
 Для установки данного приложения на свой компьютер, вам необходимо:
 
 1. Скопировать ссылку на приложение.
